@@ -1,0 +1,11 @@
+C:\Projetos\API.VideosTest\VideoTest.Domain\bin\Debug\net9.0\MovieTest.Domain.deps.json
+C:\Projetos\API.VideosTest\VideoTest.Domain\bin\Debug\net9.0\MovieTest.Domain.dll
+C:\Projetos\API.VideosTest\VideoTest.Domain\bin\Debug\net9.0\MovieTest.Domain.pdb
+C:\Projetos\API.VideosTest\VideoTest.Domain\obj\Debug\net9.0\MovieTest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\API.VideosTest\VideoTest.Domain\obj\Debug\net9.0\MovieTest.Domain.AssemblyInfoInputs.cache
+C:\Projetos\API.VideosTest\VideoTest.Domain\obj\Debug\net9.0\MovieTest.Domain.AssemblyInfo.cs
+C:\Projetos\API.VideosTest\VideoTest.Domain\obj\Debug\net9.0\MovieTest.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\API.VideosTest\VideoTest.Domain\obj\Debug\net9.0\MovieTest.Domain.dll
+C:\Projetos\API.VideosTest\VideoTest.Domain\obj\Debug\net9.0\refint\MovieTest.Domain.dll
+C:\Projetos\API.VideosTest\VideoTest.Domain\obj\Debug\net9.0\MovieTest.Domain.pdb
+C:\Projetos\API.VideosTest\VideoTest.Domain\obj\Debug\net9.0\ref\MovieTest.Domain.dll

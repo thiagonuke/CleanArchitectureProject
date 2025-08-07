@@ -1,0 +1,15 @@
+C:\Projetos\API.VideosTest\VideosTest.Application\bin\Debug\net9.0\MovieTest.Application.deps.json
+C:\Projetos\API.VideosTest\VideosTest.Application\bin\Debug\net9.0\MovieTest.Application.dll
+C:\Projetos\API.VideosTest\VideosTest.Application\bin\Debug\net9.0\MovieTest.Application.pdb
+C:\Projetos\API.VideosTest\VideosTest.Application\bin\Debug\net9.0\MovieTest.Domain.dll
+C:\Projetos\API.VideosTest\VideosTest.Application\bin\Debug\net9.0\MovieTest.Domain.pdb
+C:\Projetos\API.VideosTest\VideosTest.Application\obj\Debug\net9.0\MovieTest.Application.csproj.AssemblyReference.cache
+C:\Projetos\API.VideosTest\VideosTest.Application\obj\Debug\net9.0\MovieTest.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\API.VideosTest\VideosTest.Application\obj\Debug\net9.0\MovieTest.Application.AssemblyInfoInputs.cache
+C:\Projetos\API.VideosTest\VideosTest.Application\obj\Debug\net9.0\MovieTest.Application.AssemblyInfo.cs
+C:\Projetos\API.VideosTest\VideosTest.Application\obj\Debug\net9.0\MovieTest.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\API.VideosTest\VideosTest.Application\obj\Debug\net9.0\MovieTes.5AB88675.Up2Date
+C:\Projetos\API.VideosTest\VideosTest.Application\obj\Debug\net9.0\MovieTest.Application.dll
+C:\Projetos\API.VideosTest\VideosTest.Application\obj\Debug\net9.0\refint\MovieTest.Application.dll
+C:\Projetos\API.VideosTest\VideosTest.Application\obj\Debug\net9.0\MovieTest.Application.pdb
+C:\Projetos\API.VideosTest\VideosTest.Application\obj\Debug\net9.0\ref\MovieTest.Application.dll

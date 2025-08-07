@@ -1,0 +1,63 @@
+[
+  {
+    "ContainingType": "MovieTest.API.Routes.MovieEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapMovieEndpoints\u003Eb__0_0",
+    "RelativePath": "CreateMovie",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "MovieTest.Application.UseCases.CreateMovie.CreateMovieRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Guid",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 201
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 400
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 500
+      }
+    ],
+    "Tags": [
+      "Movies"
+    ],
+    "EndpointName": "CreateMovie",
+    "Description": "Recebe os dados de um filme e o registra no sistema.",
+    "Summary": "Insere informa\u00E7\u00F5es sobre um novo filme na base de dados"
+  },
+  {
+    "ContainingType": "VideoTest.API.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[VideoTest.API.WeatherForecast, MovieTest.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

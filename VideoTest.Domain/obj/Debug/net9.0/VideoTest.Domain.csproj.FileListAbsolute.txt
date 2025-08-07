@@ -1,0 +1,4 @@
+C:\Projetos\API.VideosTest\VideoTest.Domain\obj\Debug\net9.0\VideoTest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\API.VideosTest\VideoTest.Domain\obj\Debug\net9.0\VideoTest.Domain.AssemblyInfoInputs.cache
+C:\Projetos\API.VideosTest\VideoTest.Domain\obj\Debug\net9.0\VideoTest.Domain.AssemblyInfo.cs
+C:\Projetos\API.VideosTest\VideoTest.Domain\obj\Debug\net9.0\VideoTest.Domain.csproj.CoreCompileInputs.cache

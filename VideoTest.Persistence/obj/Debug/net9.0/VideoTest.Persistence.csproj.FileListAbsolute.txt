@@ -1,0 +1,11 @@
+C:\Projetos\API.VideosTest\VideoTest.Persistence\bin\Debug\net9.0\VideoTest.Persistence.deps.json
+C:\Projetos\API.VideosTest\VideoTest.Persistence\bin\Debug\net9.0\VideoTest.Persistence.dll
+C:\Projetos\API.VideosTest\VideoTest.Persistence\bin\Debug\net9.0\VideoTest.Persistence.pdb
+C:\Projetos\API.VideosTest\VideoTest.Persistence\obj\Debug\net9.0\VideoTest.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\API.VideosTest\VideoTest.Persistence\obj\Debug\net9.0\VideoTest.Persistence.AssemblyInfoInputs.cache
+C:\Projetos\API.VideosTest\VideoTest.Persistence\obj\Debug\net9.0\VideoTest.Persistence.AssemblyInfo.cs
+C:\Projetos\API.VideosTest\VideoTest.Persistence\obj\Debug\net9.0\VideoTest.Persistence.csproj.CoreCompileInputs.cache
+C:\Projetos\API.VideosTest\VideoTest.Persistence\obj\Debug\net9.0\VideoTest.Persistence.dll
+C:\Projetos\API.VideosTest\VideoTest.Persistence\obj\Debug\net9.0\refint\VideoTest.Persistence.dll
+C:\Projetos\API.VideosTest\VideoTest.Persistence\obj\Debug\net9.0\VideoTest.Persistence.pdb
+C:\Projetos\API.VideosTest\VideoTest.Persistence\obj\Debug\net9.0\ref\VideoTest.Persistence.dll
